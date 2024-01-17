@@ -3,7 +3,7 @@
 /**
  * main - Entry point for simple shell
  * @void: no args
- * Returns: 0 on success
+ * Return: 0 on success
 */
 
 int main(void)
