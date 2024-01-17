@@ -13,4 +13,4 @@
 
 2. ```./hsh```
 
-> see Terminal magic
+> see Terminal magic 🎉💻
